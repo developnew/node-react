@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\config",
+    "\\models"
   ],
-  "SelectedNode": "\\.gitignore",
+  "SelectedNode": "\\models\\User.js",
   "PreviewInSolutionExplorer": false
 }
