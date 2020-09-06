@@ -2,8 +2,9 @@
   "ExpandedNodes": [
     "",
     "\\config",
+    "\\middleware",
     "\\models"
   ],
-  "SelectedNode": "\\models\\User.js",
+  "SelectedNode": "\\middleware\\auth.js",
   "PreviewInSolutionExplorer": false
 }
